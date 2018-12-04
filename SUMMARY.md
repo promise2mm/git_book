@@ -1,10 +1,24 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [java8](java8.md)
 
-## database
+## redis
 
-* [redis](database/redis.md)
-* [mysql](database/mysql.md)
+* [redis数据结构](database/redis-shu-ju-jie-gou.md)
+
+## mysql
+
+* [mysql-索引](mysql/mysql-suo-yin.md)
+
+## spring-boot
+
+* [Untitled](spring-boot/untitled.md)
+
+## java
+
+* [java8](java/java8.md)
+
+## 杂记
+
+* [Untitled](za-ji/untitled.md)
 
