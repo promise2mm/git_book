@@ -4,9 +4,8 @@
 
 ## redis
 
-* [redis数据结构](database/redis-shu-ju-jie-gou.md)
-### redis内存模型
-* [redis内存模型](database/redis内存模型.md)
+* [redis数据结构](redis/redis-shu-ju-jie-gou.md)
+* [redis内存模型](redis/redis-nei-cun-mo-xing.md)
 
 ## mysql
 
@@ -22,5 +21,5 @@
 
 ## 杂记
 
-* [Untitled](杂记/untitled.md)
+* [乌合之众](za-ji/untitled.md)
 

@@ -1,7 +1,3 @@
----
-description: java8 lambda
----
-
 # java8
 
 ## Lambda表达式
