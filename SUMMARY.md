@@ -21,8 +21,8 @@
 
 ## Effective-in-mac
 
-- [MacOS](Effective-in-mac/MacOS)
-- [iterm2](Effective-in-mac/iterm2)
+- [MacOS](Effective-in-mac/MacOS.md)
+- [iterm2](Effective-in-mac/iterm2.md)
 
 ## 杂记
 
