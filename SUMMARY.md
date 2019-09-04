@@ -19,6 +19,11 @@
 
 * [java8](java/java8.md)
 
+## Effective-in-mac
+
+- [MacOS](Effective-in-mac/MacOS)
+- [iterm2](Effective-in-mac/iterm2)
+
 ## 杂记
 
 * [乌合之众](za-ji/untitled.md)
